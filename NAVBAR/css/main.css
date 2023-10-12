@@ -23,7 +23,7 @@ li a {
 }
 li a:hover {
   background-color: #8b0000;
-  color: #ffffff;
+  color: rgba(255, 255, 255, 0.95);
 }
 .nav {
   height: 42px;
