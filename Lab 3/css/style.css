@@ -39,9 +39,12 @@ ul {
     background-color: #eeeeee;
     float: left;
     border-top: 2px solid #8b0000;
+
+}
+.dr-nav a{
+    border-bottom: 1px solid #bebebe;
 }
 ul .nav-cont:hover .dr-nav{
     display:block;
-
 }
 
